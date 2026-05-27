@@ -130,7 +130,7 @@ Known entities PRs especially welcomed — if you have a verified wallet label w
 
 Funding
 Evidencly is seeking ecosystem grants from every major blockchain foundation to fund cross-chain expansion, the OpenFoundry integration, and infrastructure costs.
-If you represent a chain ecosystem fund and want open-source on-chain intelligence tooling available to your community, get in touch: evidencly@gmail.com.com
+If you represent a chain ecosystem fund and want open-source on-chain intelligence tooling available to your community, get in touch: evidencly@gmail.com
 
 License
 MIT — free to self-host, fork, and build on.
